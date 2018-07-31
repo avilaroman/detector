@@ -38,7 +38,7 @@ export default (state, prev, send) =>
       }
       ${
         state.firstTime && state.cameraReady
-        ? html`<h5 id="first-time">Try taking a picture of something.</h5>`
+        ? html`<h5 id="first-time">Probá sacándole una foto a algo. Te reconoce en porcentajes.</h5>`
         : null
       }
       <div class="debug">${state.guesses}</div>
