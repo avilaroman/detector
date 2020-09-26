@@ -1,5 +1,5 @@
-// Insert your own API key here:
-const googleKey = '@@@@@'
+// Aqui va tu clave del Google Cloud Vision con tu cuenta gratuita la sacás en https://console.cloud.google.com/apis/credentials
+const googleKey = 'AIzaSyDh3W_KkLTJCnc1IhgKgXBO9oyODxv774Y'
 
 export const apiUrls = {
   cloudVision: 'https://vision.googleapis.com/v1/images:annotate?key=' + googleKey,
