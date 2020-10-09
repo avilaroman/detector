@@ -1,7 +1,5 @@
+// Aqui va tu clave del Google Cloud Vision con tu cuenta gratuita la sacás en https://console.cloud.google.com/apis/credentials ahi
 const googleKey = 'AIzaSyDh3W_KkLTJCnc1IhgKgXBO9oyODxv774Y'
-  .split('')
-  .reverse()
-  .join('')
 
 export const apiUrls = {
   cloudVision:

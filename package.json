@@ -1,13 +1,13 @@
 {
-  "name": "thing-translator",
-  "version": "0.0.2",
+  "name": "detector",
+  "version": "0.0.1",
   "description": "Thing Translator is an AI Experiment that lets you point your camera at things to hear how to say them in a different language.",
   "private": true,
   "main": "src/app.js",
   "author": {
-    "name": "Dan Motzenbecker",
-    "email": "dan@oxism.com",
-    "url": "http://oxism.com"
+    "name": "Roman Avila",
+    "email": "avilaroman@gmail.com",
+    "url": "http://spacex.com.ar"
   },
   "scripts": {
     "build": "npm run build-css ",
