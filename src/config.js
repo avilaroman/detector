@@ -1,4 +1,4 @@
-const googleKey = '@@@@@'
+const googleKey = 'AIzaSyDh3W_KkLTJCnc1IhgKgXBO9oyODxv774Y'
   .split('')
   .reverse()
   .join('')
