@@ -1,6 +1,6 @@
 # [Traductor de Cosas](https://thing-translator.appspot.com/)
 ### [Un Experimento AI](https://aiexperiments.withgoogle.com/)
-✨ [Podés probar en el proyecto original corriendo en:](https://thing-translator.appspot.com/) ✨
+✨ [Podés probar en el proyecto original corriendo en:](https://thing-translator.appspot.com/) - $npm run watch✨
 
 ![](https://oxism.com/thing-translator/thing-translator.gif)
 
