@@ -18,27 +18,28 @@ Detrás de escena Thing Translator está usando Google
 API de [Translate] (https://cloud.google.com/translate/).
 
 <<<<<<< HEAD
-### Development
+### DESAROLLO
 
-To start a development server on `9966` that will watch for code changes simply run:
+Para comenzar tu perzonalización puedes ejecutar el server en el puerto `9966`esto hará un: 
 
 ```
+$ npm run watch
 $ npm start
 ```
+Necesitarás agregar tu PROPIA AKI KEY creada gratuitamente para tu cuenta de Gmail.
+Configurandola en  `src/config.js`.
 
-You will need to set your API key in `src/config.js`.
-
-To optimize the output for production, run:
-
+Para optimizar la salida de producción ejecutá:
 ```
 $ npm run build
 ```
 
-For production builds, replace the contents of the `api_key` file with your
-production key.
+para buils de produccion, reemplaza por tu archivo de `api_key`  con tu clave de producción.
 
+Si quieres crear un nuevo fork para comenzar desde aqui tu propio proyecto tambien lo puedes hacer.
 If you'd like to create a fork or a similar project, you'll need to setup some
 API keys on [Google Cloud Platform](https://cloud.google.com/).
+Ya está en Versión ESPAÑOL
 =======
 
 ### Desarrollo
