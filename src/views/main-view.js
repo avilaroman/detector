@@ -30,7 +30,7 @@ export default (state, prev, send) =>
         : null}
       ${state.firstTime && state.cameraReady
         ? html`
-            <h5 id="first-time">Try taking a picture of something.</h5>
+            <h5 id="first-time">Prueba tomando una foto de algo. Centrado y grande.</h5>
           `
         : null}
       <div class="debug">${state.guesses}</div>
